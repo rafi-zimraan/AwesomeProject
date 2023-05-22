@@ -1,0 +1,14 @@
+export const hitam = '#000000';
+export const putih = '#ecf0f1';
+export const silver = '#bdc3c7';
+export const abuGelap = '#7f8c8d';
+export const abu = '#95a5a6';
+export const hitamMuda = '#2c3e50';
+export const oren = '#f39c12';
+export const orenMuda = '#f1c40f';
+export const hijauTosca = '#1abc9c';
+export const hijau = '#2ecc71';
+export const ungu = '#9b59b6';
+export const merah = '#e74c3c';
+export const biru = '#00a8ff';
+export const biruGelap = '#273c75';
